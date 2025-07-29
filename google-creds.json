@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "callai-466907",
+  "private_key_id": "2abe9b032e38af0a5538ba606a5389dcb894d011",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2cm+RgjVhuehZ\nbxD+8hbgImgs+bF+5ULKeNIY00pKAZoaVbHvgPKymoEkBLJaqtEnBtbU1FvK/VKD\n5P9TP/GsbcmbV7yWdA89VAhLkmwAPdhxw5T6OjIrUGEFKnJAJo6PY83Wlf0p3R1/\nW2IJvna6jKJHlu4mGbeMBv1f/CCTr+BHHmTJLSK2umGDApAzX1mZY01vjZMZLRlP\nw0hdL/W1X4EkiudV10/ajHoeiS+JXwGXWD+OGlYxxioNO3Kx4PjvsqiwWx+yxs2A\n3HLhfeBEC9N8iiTREhth0A/5MQP33I2RdqkQX0ooZlPiAzW+4aD23Vh6a+orPOkv\nBV8h7uYdAgMBAAECggEABvDfFDjRKZTeRUq/qYdRvfipIG7mZQa5TgUfLxEYviyF\n7ZMNiChOc2OD3rgsBd2CQ/sTYLjsfhI5mal0WjkwS0hI93c0xj+HleR0xVU+dRrl\nOVzAte1RW8r8yerFunGNEmDwY4XEwhs2pFH4bpj3oNy5TsJr8HihfjsE2Co6Hgwu\nAw2KLbOCX0xOhjGeuYs6u8FAxSlQKBklED18luE1e/hjNZXErU+VAQttLTQKCc2o\nxOyEhp7xwz00I36MxkjssdxOXe5+lrMoUfbfHCtyOle+eS9TIguG4puUPRuyJx00\n3yG4/VRWhMZWfoFrmCmu8eZcYgdgWnPsbnAQkyyykQKBgQD3QGZ02cFWPlu4GEJM\n5CfsvOGTh/PA7lKznjU7EuNHFlKNiw3C6l7jkn8kXgIInjCexcYFJSpjCwZERRNJ\nX56HtO5Zy5mRieeyDPmWQNFn2TrRMtQdM5Zo0Sg53RQkR+P4+IMo9oXBTYwAy8pj\nW/hMShftW2Qg5vx+O+e6b3Qd8QKBgQC85wmKuNrCdAn4qHiNHhcUQKTj/EgiXg7f\n1wblFIRzJxxv+F1p7JYJ51ZXaEE0O0Zai2nHS2Ud0hHsb4Bb9UpgT1PuJbAfr0bC\nAiA0LnCEc8CS4/P2ez/lK834lxNS3AIhg01hwSeCA+msQJxbbR/+zXFFZg5yV5qA\n1YuO2owO7QKBgETlpycsfplfqwMzj1YJxa5MO7d2jM/YGSeAEGkzrC1k5QAYHW+R\nC3vymIczwvFP01CK39ETOCp9KfPgI62wfWZnXnubJmHNwch1oR7jVPbRK3ib50tz\n0pfGoKTvG+u4NKht526Es2TYDQkzwGPLfvcTNnOnodEhTH6IhtwGrp6hAoGAfL2g\nSm/JXbEcyIwPlzhwixopCLgWtkMgVWX8Epga4qPIHpSGsyTc60tNc8jPjfs6eR4o\nyscZzbhjx5rVy2POKo0X4mIWzMWE1yZqN6sW+BAr8ZQADRrUVbQ4fljdFNFdwt2e\n4teXDD8jNnEwDxufjjYB/47mKVF6IGtjjgD5jf0CgYEAzIGqJNOioTjTE70El0o2\n8n3HUNQfVzIZuN6scmC/NfE+L7my5vmBlyxBQR5rQTbRkLhhnPxSUOaeM5BVe4ch\nkQ7TF5IH/7zeJTHZTB08TqnD9Eg38K8lIOEqhqkhyAO7hqbqYrS9WRTgANnhO2kR\nvctZorR3iGrt26zEb/aYYJo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "callai-service-bot@callai-466907.iam.gserviceaccount.com",
+  "client_id": "115749817644445979258",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/callai-service-bot%40callai-466907.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
