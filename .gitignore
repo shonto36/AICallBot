@@ -1,0 +1,39 @@
+# Google Cloud credentials (allow package.json)
+*.json
+!package.json
+!package-lock.json
+
+# Other credential files
+*.key
+*.pem
+*.gcloud
+
+# STT/TTS temporary files
+temp/
+*.mp3
+*.wav
+*.ogg
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build directories
+dist/
+build/
+out/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
